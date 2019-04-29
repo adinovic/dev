@@ -1,4 +1,5 @@
 <?php
+//testing
 /**
  * XML-RPC protocol support for WordPress
  *
