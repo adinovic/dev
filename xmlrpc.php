@@ -1,6 +1,5 @@
 <?php
-//testing
-vardump();
+
 /**
  * XML-RPC protocol support for WordPress
  *
